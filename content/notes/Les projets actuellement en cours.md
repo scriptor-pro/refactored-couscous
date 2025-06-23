@@ -1,7 +1,8 @@
 ---
 title: En cours
 publish: true
-tags: [Projets]
+tags:
+  - accueil
 created: 2025-06-23
 updated: 2025-06-23
 ---
