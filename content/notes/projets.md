@@ -1,7 +1,8 @@
 ---
 title: Projets en cours
 publish: true
-tags: [projets, en cours]
+tags:
+  - projets
 created: 2025-06-23
 updated: 2025-06-23
 ---

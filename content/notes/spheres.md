@@ -1,7 +1,8 @@
 ---
 title: Sphères
 publish: true
-tags: [projets, en cours]
+tags:
+  - spheres
 created: 2025-06-23
 updated: 2025-06-23
 ---
