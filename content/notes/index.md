@@ -1,49 +1,25 @@
 ---
-title: Bienvenue au jardin (numérique)
-tags:
-  - accueil
-description: Le digital garden de Baudouin Van Humbeeck
-created: 2025-06-22
+title: Projets
+publish: true
+tags: [projets, index]
+description: Ce fichier contient l'index de tous les projets en cours dans le jardin numérique.
+created: 2025-06-23
 updated: 2025-06-23
-components:
-  - header
-  - footer
-
+components: [header, footer]
 ---
 
-Dernière mise à jour 22 juin 2025 13 h 42
+# Bienvenue dans l'index des projets
 
+<!--
 
+Ici, vous trouverez un récapitulatif des projets en cours dans le jardin numérique. Chaque projet est relié à d'autres notes pertinentes dans le jardin.
 
-## Ce digital garden est encore un peu en travaux
+- **Projet 1**: [Nom du projet 1](./projet1.md)
+- **Projet 2**: [Nom du projet 2](./projet2.md)
+- **Projet 3**: [Nom du projet 3](./projet3.md)
 
-Il n'y a pas de page "digital garden" dans Wikipedia. Je le sais, j'ai tenté de la créer. 
+-->
 
-## Ceci n'est pas un blog
+## Projets à venir
 
-C'est un outil, un carnet où je déposerai les liens que j'aurai envie de pouvoir retrouver. 
-
-## Méthode 
-
-Ce jardin numérique (digital jardin, certainement pas "jardin digital") utilise la méthode PARA. En gros, tu divises ta vie, tes documents, tes espaces dans quatre catégories. 
-
-### [[|Projets]]
-
-
-- ce qui a une deadline
-- plutôt court terme
-
-### Ressources
-
-Comme son nom l'indique. Je sens qu'il va y a avoir un pense-bête avec les commandes CLI que je n'utilise pas assez souvent pour les connaitre par cœur et assez souvent pour avoir envie/besoins de les noter quelque part
-
-## Hyper 
-
-L'idée est que les pages soient liées entre elles.
-
-## Tout savoir ou presque
-
-- C'est la faute à Maggie, m'sieur : https://maggieappleton.com/garden-history et pour les francophones : https://www.ladn.eu/tech-a-suivre/cest-quoi-les-jardins-numeriques-ces-espaces-qui-pullulent-sur-le-web/
-- Tu peux employer TiddlyWiki
-- Tu peux aussi employer [Quartz](https://quartz.jzhao.xyz/) (c'est le cas ici, plus touffu à installer que tiddlywiki dans mon expérience)
-
+Les projets à venir seront ajoutés prochainement.
