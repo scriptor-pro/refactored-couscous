@@ -1,7 +1,7 @@
 ---
 title: Sphères
 publish: true
-tags:[spheres]
+tags: [spheres]
 created: 2025-06-23
 updated: 2025-06-23
 ---
