@@ -1,7 +1,6 @@
 ---
 title: Bienvenue au jardin (numérique)
-tags:
-  - accueil
+tags:[accueil]
 description: Le digital garden de Baudouin Van Humbeeck
 created: 2025-06-22
 updated: 2025-06-22

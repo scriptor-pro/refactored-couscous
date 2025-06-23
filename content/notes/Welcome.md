@@ -1,7 +1,8 @@
 ---
-title: Ma première note publique
+title: Bienvenue au jardin
 publish: true
 tags: [journal, début]
+created: 2025-06-23
 ---
 
 # Bienvenue !

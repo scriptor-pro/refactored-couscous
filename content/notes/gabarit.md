@@ -2,7 +2,7 @@
 ---
 title: Titre de la note
 publish: true
-tags: [jardin, réflexion, idée, lecture]
+tags: [gabarit]
 description: Une courte description de cette note pour les aperçus
 created: 2025-06-22
 updated: 2025-06-22

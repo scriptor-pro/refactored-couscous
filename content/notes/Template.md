@@ -1,7 +1,7 @@
 ---
 title: Bonjour Quartz
 publish: true
-tags: [accueil, test]
+tags: [test]
 ---
 
 Bienvenue sur ma première note Quartz !  

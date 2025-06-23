@@ -1,7 +1,7 @@
 ---
 title: Ressources
 publish: true
-tags: [projets, en cours]
+tags: [Ressources]
 created: 2025-06-23
 updated: 2025-06-23
 ---
