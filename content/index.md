@@ -1,13 +1,15 @@
 ---
-title: Bienvenue au jardin 
+title: Bienvenue au jardin
 tags:
   - accueil
 description: Le digital garden de Baudouin Van Humbeeck
 created: 2025-06-22
 updated: 2025-06-22
-components: [header, footer] 
----
+components:
+  - header
+  - footer
 
+---
 Dernière mise à jour 22 juin 2025 13 h 42
 
 
