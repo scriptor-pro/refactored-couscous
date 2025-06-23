@@ -1,5 +1,5 @@
 ---
-title: Bienvenue au jardin (numérique)
+title: Bienvenue au jardin 
 tags:
   - accueil
 description: Le digital garden de Baudouin Van Humbeeck
