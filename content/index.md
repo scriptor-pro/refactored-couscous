@@ -10,7 +10,7 @@ components: [header, footer]
 
 # Bienvenue dans ce jardin numérique
 
-à ma montre pas Seiko il est exactement 21 h 34 - 
+à ma montre pas Seiko il est exactement 11 h 32 et nous sommes le 24 juin 2025
 
 Ici, vous trouverez un récapitulatif des projets en cours dans le jardin numérique. Chaque projet est relié à d'autres notes pertinentes dans le jardin. Il sera question de [[zones]], de [[ressources]], de projets et d'archives.
 

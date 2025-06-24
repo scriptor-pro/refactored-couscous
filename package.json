@@ -1,15 +1,15 @@
 {
-  "name": "@jackyzha0/quartz",
+  "name": "@scriptor-pro/mon-digital-garden",
   "description": "🌱 publish your digital garden and notes as a website",
   "private": true,
   "version": "4.5.1",
   "type": "module",
   "author": "jackyzha0 <j.zhao2k19@gmail.com>",
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "https://dev.jndjs.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "https://github.com/scriptor-pro/mon-digital-garden.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
@@ -114,3 +114,4 @@
     "typescript": "^5.8.3"
   }
 }
+
