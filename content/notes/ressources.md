@@ -1,20 +1,18 @@
 ---
-title: Projets
+title: Ressources
 publish: true
-tags: [projets, index]
-description: Ce fichier contient l'index de tous les projets en cours dans le jardin numérique.
+tags: [ressources, index]
+description: Ce fichier contient l'index des ressources.
 created: 2025-06-23
 updated: 2025-06-23
 components: [header, footer]
 ---
 
-# Bienvenue au jardin
+# Bienvenue dans le hangar à ressources
 
 
 
 <!--
-
-
 
 Ici, vous trouverez un récapitulatif des projets en cours dans le jardin numérique. Chaque projet est relié à d'autres notes pertinentes dans le jardin.
 
@@ -24,6 +22,4 @@ Ici, vous trouverez un récapitulatif des projets en cours dans le jardin numér
 
 -->
 
-## Projets à venir
 
-Les projets à venir seront ajoutés prochainement.

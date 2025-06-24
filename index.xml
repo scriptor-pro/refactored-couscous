@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Je note donc je suis</title>
+      <link>https://jndjs.dev</link>
+      <description>Les dernières 10 notes on Je note donc je suis</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Untitled</title>
+    <link>https://jndjs.dev/Untitled</link>
+    <guid>https://jndjs.dev/Untitled</guid>
+    <description>index Voici une note minimale pour Quartz. Elle est prête à être reliée à d’autres notes via liens internes.</description>
+    <pubDate>Sun, 22 Jun 2025 22:00:00 GMT</pubDate>
+  </item><item>
+    <title>Titre de la note</title>
+    <link>https://jndjs.dev/archives/</link>
+    <guid>https://jndjs.dev/archives/</guid>
+    <description>Titre de la note Voici une note minimale pour Quartz. Elle est prête à être reliée à d’autres notes via liens internes.</description>
+    <pubDate>Sun, 22 Jun 2025 22:00:00 GMT</pubDate>
+  </item><item>
+    <title>Je note donc je suis</title>
+    <link>https://jndjs.dev/</link>
+    <guid>https://jndjs.dev/</guid>
+    <description>Le jardin numérique de Baudouin Van Humbeeck - poussez la grille et ne faites pas attention aux mauvaises herbes</description>
+    <pubDate>Sun, 22 Jun 2025 22:00:00 GMT</pubDate>
+  </item><item>
+    <title>Projets</title>
+    <link>https://jndjs.dev/notes/</link>
+    <guid>https://jndjs.dev/notes/</guid>
+    <description>Ce fichier contient l'index de tous les projets en cours dans le jardin numérique.</description>
+    <pubDate>Sun, 22 Jun 2025 22:00:00 GMT</pubDate>
+  </item><item>
+    <title>Ressources</title>
+    <link>https://jndjs.dev/notes/ressources</link>
+    <guid>https://jndjs.dev/notes/ressources</guid>
+    <description>Ce fichier contient l'index des ressources.</description>
+    <pubDate>Sun, 22 Jun 2025 22:00:00 GMT</pubDate>
+  </item><item>
+    <title>Zones</title>
+    <link>https://jndjs.dev/notes/zones</link>
+    <guid>https://jndjs.dev/notes/zones</guid>
+    <description>Division en zones de ce jardin numérique.</description>
+    <pubDate>Sun, 22 Jun 2025 22:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
