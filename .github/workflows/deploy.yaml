@@ -29,7 +29,7 @@ jobs:
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v1
         with:
           path: public
 
@@ -43,10 +43,12 @@ jobs:
       #######################################
       # 👇 AJOUT CORRECT : téléchargement de l'artifact
       - name: Download artifact
-        uses: actions/download-pages-artifact@v3
+        uses: actions/download-pages-artifact@v1
       # ☝️ FIN AJOUT
       #######################################
 
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+
