@@ -9,7 +9,7 @@
   "homepage": "https://dev.jndjs.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/scriptor-pro/mon-digital-garden.git"
+    "url": "https://github.com/scriptor-pro/quartz.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
@@ -24,8 +24,8 @@
     "node": ">=22"
   },
   "keywords": [
-    "site generator",
-    "ssg",
+    "jardin numérique",
+    "baudouin van humbeeck",
     "digital-garden",
     "markdown",
     "blog",
