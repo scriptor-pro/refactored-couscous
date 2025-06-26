@@ -1,9 +1,9 @@
-name: CI + Deploy Quartz to GitHub Pages
+name: CI + Deploy Quartz to GitHub Pages (artifact@v4)
 
 on:
   push:
     branches:
-      - v4  # Adapte si tu déploies depuis une autre branche
+      - v4  # Déclenche sur push vers la branche v4
 
 permissions:
   contents: read
@@ -15,12 +15,10 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-22.04
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
-
+    outputs:
+      artifact-name: ${{ steps.upload.outputs.artifact-name }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -36,16 +34,27 @@ jobs:
       - name: Build Quartz
         run: npx quartz build
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+      - name: Upload site artifact
+        id: upload
+        uses: actions/upload-artifact@v4
         with:
-          path: public
           name: quartz-site
+          path: public/
+          if-no-files-found: error
+          retention-days: 1
 
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
       - name: Download artifact
-        uses: actions/download-pages-artifact@v4
+        uses: actions/download-artifact@v4
         with:
           name: quartz-site
+          path: public
 
       - name: Deploy to GitHub Pages
         id: deploy
