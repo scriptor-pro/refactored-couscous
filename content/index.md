@@ -4,13 +4,13 @@ publish: true
 tags: [index, accueil]
 description: Le jardin numérique de Baudouin Van Humbeeck - poussez la grille et ne faites pas attention aux mauvaises herbes
 created: 2025-06-23
-updated: 2025-06-26
+updated: 2025-06-23
 components: [header, footer]
 ---
 
 # Bienvenue dans ce jardin numérique
 
-à ma montre pas Seiko il est exactement 15 h 26 et nous sommes le 26 juin 2025
+à ma montre pas Seiko il est exactement 11 h 32 et nous sommes le 24 juin 2025
 
 Ici, vous trouverez un récapitulatif des projets en cours dans le jardin numérique. Chaque projet est relié à d'autres notes pertinentes dans le jardin. Il sera question de [[zones]], de [[ressources]], de projets et d'archives.
 
@@ -18,7 +18,7 @@ Par exemple, il y aura des [[ressources]].
 
 ## Qu'est-ce que c'est un jardin numérique  :
 
-Pas la peine de tourner vers wikipédia pour le savoir, j'ai tenté de créer [une page](https://en.wikipedia.org/wiki/User:BaudouinVH/digital-garden) à ce sujet mais les gardiens du temple du savoir semble avoir un a priori négatif à propos de ce dont ils n'ont jamais entendu parler. 
+Pas la peine de tourner vers wikipédia pour le savoir, j'ai tenté de créer une page à ce sujet mais les gardiens du temple du savoir semble avoir un a priori négatif à propos de ce dont ils n'ont jamais entendu parler. 
 
 ## Qu'est-ce que ça n'est pas ?
 
