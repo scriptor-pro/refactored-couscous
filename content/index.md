@@ -26,7 +26,11 @@ Pas la peine de tourner vers wikipédia pour le savoir, j'ai tenté de créer un
 
 Le contenu n'est pas organisé par le plus récent qui s'affiche en premier. Pas moyen de lâcher ton comm'. Si Quartz offre la possibilité d'insérer des images, je ne l'ai pas encore trouvée.
 
+## Qu'est-ce que c'est alors ?
 
+### Un 'tranet perso ?
+
+Si tu arrives à lire ceci, c'est que ça n'est pas vraiment un intranet. Mais à part ça, qu'est-ce que c'est un intranet ?
 
 
 <!--
