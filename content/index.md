@@ -11,7 +11,7 @@ components: [header, footer]
 # Bienvenue dans ce jardin numérique
 
 
-Ici, vous trouverez un récapitulatif des projets en cours dans le jardin numérique. Chaque projet est relié à d'autres notes pertinentes dans le jardin. Il sera question de [[zones]], de [[ressources]], de projets et d'archives.
+Ici, vous trouverez un récapitulatif des projets en cours dans le jardin numérique. Chaque projet est relié à d'autres notes pertinentes dans le jardin. Il sera question de [[zones]], de [[ressources]], de [[projets]] et d'[[archives]]. Pourquoi, parce que j'ai découvert l'existence de la méthode PARA (Projets, Areas, Ressources, Archives)
 
 Par exemple, il y aura des [[ressources]].
 
