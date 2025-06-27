@@ -15,4 +15,4 @@ updated: 2025-06-23
 
 Outil de publication : Quartz https://quartz.jzhao.xyz/
 
-ee
+Endroit de publication : Netlify. (j'ai galéré deux jours à tenter de publier via GitHub)
