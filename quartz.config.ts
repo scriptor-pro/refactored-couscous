@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "unami",host: 'https://umami.bvh.fyi', websiteId: 'f2b1a876-7e20-49b9-bc2c-798f1f940e5c'
     },
     locale: "fr-FR",
-    baseUrl: "/quartz/",
+    baseUrl: "https://scriptor-pro.github.io/refactored-couscous",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
