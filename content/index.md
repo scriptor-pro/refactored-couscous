@@ -1,11 +1,15 @@
 ---
 title: Je note donc je suis
 publish: true
-tags: [index, accueil]
+tags:
+  - index
+  - accueil
 description: Le jardin numérique de Baudouin Van Humbeeck - poussez la grille et ne faites pas attention aux mauvaises herbes
 created: 2025-06-23
-updated: 2025-06-23
-components: [header, footer]
+updated: 2025-06-27
+components:
+  - header
+  - footer
 ---
 
 # Bienvenue dans ce jardin numérique
@@ -28,9 +32,6 @@ Selon l'intelligence artificielle [tinyllama](https://ollama.com/library/tinylla
 
 Le contenu n'est pas organisé par le plus récent qui s'affiche en premier. Pas moyen de lâcher ton comm' même si Quartz le permet. Un jour sans doute il y aura un formulaire, sinon, pour le moment, on ne peut pas dire que ce soit la fête à l'interactivité.
 
-## Qu'est-ce que c'est alors ?
-
-### Un 'tranet perso ?
 
 Si tu arrives à lire ceci, c'est que ça n'est pas vraiment un intranet. Mais à part ça, qu'est-ce que c'est un intranet ? L'endroit où une entité regroupe des ressources utiles à tout le monde : les horaires de la cantine, la procédure pour les jours de congé de mariage, les prototypes XB27.secret, des photos du méchoui où Carole de la compta a tellement bu et plu…
 
