@@ -1,6 +1,7 @@
 ---
 title: Zones
-publish: true
+publish: false
+draft: true
 tags: [zones, index]
 description: Division en zones de ce jardin numérique.
 created: 2025-06-23

@@ -4,7 +4,7 @@ publish: true
 tags:
   - meta
 created: 2025-06-23
-updated: 2025-06-23
+updated: 2025-06-29
 ---
 
 # Meta
@@ -13,6 +13,7 @@ updated: 2025-06-23
 
 ### En vrac
 
-Outil de publication : Quartz https://quartz.jzhao.xyz/
+Outil de publication : [Quartz](https://quartz.jzhao.xyz/)
+Endroit de publication : Netlify. (j'ai galéré deux jours à tenter de publier via GitHub)
 
-ee
+
