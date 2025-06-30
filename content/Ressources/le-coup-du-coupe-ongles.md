@@ -2,7 +2,7 @@
 title: Le coup du coupe-ongles
 publish: false
 draft: true
-tags:[Écriture]
+tags: [Écriture]
 created:2025-06-29
 ---
 # Le coup du coupe-ongles
