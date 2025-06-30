@@ -1,10 +1,11 @@
 ---
-title: Le coup du coupe-ongles
+title: "Le coup du coupe-ongles"
 publish: false
 draft: true
-tags: [Écriture]
-created:2025-06-29
+tags: ["Écriture"]
+created: 2025-06-29
 ---
+
 # Le coup du coupe-ongles
 
 ## De quoi est-ce que tu as besoin pour écrire ? 

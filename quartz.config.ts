@@ -12,9 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "unami",host: 'https://umami.bvh.fyi', websiteId: 'f2b1a876-7e20-49b9-bc2c-798f1f940e5c'
-    },
+    analytics: {  provider: 'goatcounter', websiteId: 'jndjs'         },
     locale: "fr-FR",
     baseUrl: "https://scriptor-pro.github.io/refactored-couscous",
     ignorePatterns: ["private", "templates", ".obsidian"],
