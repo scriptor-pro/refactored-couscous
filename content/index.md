@@ -10,9 +10,7 @@ components: [header, footer]
 
 # Bienvenue dans ce jardin numérique
 
-Ici, vous trouverez un récapitulatif des projets en cours dans le jardin numérique. Chaque projet est relié à d'autres notes pertinentes dans le jardin. Il sera question de [[zones]], de [[ressources]], de projets et d'archives.
-
-Par exemple, il y aura des [[ressources]].
+Ici, vous trouverez un récapitulatif des projets en cours dans le jardin numérique. Chaque projet est relié à d'autres notes pertinentes dans le jardin. Il sera question de [[zones]], de [[ressources]], de [[Projets/index|Projets]] et d'[[Archives/index|archives]].
 
 ## Qu'est-ce que c'est un jardin numérique  :
 
@@ -35,11 +33,14 @@ Le contenu n'est pas organisé par le plus récent qui s'affiche en premier. Pas
 Si tu arrives à lire ceci, c'est que ça n'est pas vraiment un intranet. Mais à part ça, qu'est-ce que c'est un intranet ? L'endroit où une entité regroupe des ressources utiles à tout le monde : les horaires de la cantine, la procédure pour les jours de congé de mariage, les prototypes XB27.secret, des photos du méchoui où Carole de la compta a tellement bu et plu…
 
 
-
-Je n'ai pas accès à ton intranet mais je m'attends à ce qu'il comporte notamment des connaissances et documentation
+Je n'ai pas accès à ton intranet mais je m'attends à ce qu'il comporte notamment des connaissances et documentation, des informations utiles à tous. 
 
 ## Un wiki perso impudique ?
 
+Hm…. Peut-être bien un peu de ça aussi. 
 
+## Un work in progress ?
+
+Voilà ! Un digital garden, c'est surtout un work in progress. Le contenu va changer souvent. Reviens souvent.
 
 ## À suivre
