@@ -15,7 +15,12 @@ Par ordre alphabétique :
 
 Team "Asperger" 
 
+## Zone Bullshitologie
+
+Team "double aveugle randomisé contrôlé publié dans revue à comité de lecture". Team "[[Meta de choc]](https://metadechoc.fr/podcasts/)
+
 ## Zone Dans la cité
+
 
 
 
