@@ -19,6 +19,8 @@ Team "Asperger"
 
 Team "double aveugle randomisé contrôlé publié dans revue à comité de lecture". Team "[[Meta de choc]](https://metadechoc.fr/podcasts/)
 
+Je me déclare ennemi des pratiques de soin auxquelles il est nécessaire de croire. Je regarde dans votre direction l'homéopathie, les cailloux magiques
+
 ## Zone Dans la cité
 
 
