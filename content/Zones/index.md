@@ -21,7 +21,7 @@ Team "double aveugle randomisé contrôlé publié dans revue à comité de lect
 
 ## Zone Dans la cité
 
-
+Team Observateur aiguisé
 
 
 
@@ -32,7 +32,7 @@ Team "double aveugle randomisé contrôlé publié dans revue à comité de lect
 
 ## Zone Internet
 
-
+Team Canal (IRC) historique
 
 ## Zone Geekeries
 
