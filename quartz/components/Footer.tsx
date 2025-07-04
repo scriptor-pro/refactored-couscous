@@ -24,6 +24,7 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+<p>Tripatouillé avec &#x2766; à Bruxelles</p>
       </footer>
     )
   }
