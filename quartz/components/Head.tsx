@@ -44,7 +44,6 @@ export default (() => {
           <>
             <link rel="preconnect" href="https://fonts.googleapis.com" />
             <link rel="preconnect" href="https://fonts.gstatic.com" />
-<link rel="preconnect" href="fonts.bunny.net" crossorigin>
             <link rel="stylesheet" href={googleFontHref(cfg.theme)} />
             {cfg.theme.typography.title && (
               <link rel="stylesheet" href={googleFontSubsetHref(cfg.theme, cfg.pageTitle)} />
