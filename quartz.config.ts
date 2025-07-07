@@ -1,6 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
-
+import { ExtraHead } from "./quartz/plugins/emitters/extraHead"
 /**
  * Quartz 4 Configuration
  *
@@ -85,6 +85,7 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.Favicon(),
+      ExtraHead(),
      Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
       // Plugin.CustomOgImages(),
@@ -93,7 +94,3 @@ const config: QuartzConfig = {
 }
 
 export default config
-
-
-
-
