@@ -43,7 +43,7 @@ Team Linux (MXLinux21 actuellement)
 
 Team photo argentique
 Team je développe à la maison. 
-Team qu'est-ce que ce frigo et cette cuisinière foutent dans mon labo ph ? 
+Team qu'est-ce que ce frigo et cette cuisinière foutent dans mon labo photo ? 
 
 
 
