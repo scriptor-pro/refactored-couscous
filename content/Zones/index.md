@@ -21,13 +21,14 @@ Team "double aveugle randomisé contrôlé publié dans revue à comité de lect
 
 ## Zone Dans la cité
 
-Team Observateur aiguisé
+Team Observateur aiguisé 
+Team Vérité 
 
 
 
 ## Zone Écriture
 
-
+Du roman, du non-fiction, du théâtre, du scénario... 
 
 
 ## Zone Internet
@@ -41,6 +42,8 @@ Team Linux (MXLinux21 actuellement)
 ## Zone Photo
 
 Team photo argentique
+Team je développe à la maison. 
+Team qu'est-ce que ce frigo et cette cuisinière foutent dans mon labo ph ? 
 
 
 
