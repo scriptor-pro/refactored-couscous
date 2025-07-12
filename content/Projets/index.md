@@ -1,10 +1,12 @@
 ---
 title: Projets
 publish: true
-tags: [projets, index]
+tags: 
+  - projets
+
 description: Ce fichier contient l'index de tous les projets en cours dans le jardin numérique.
 created: 2025-06-23
-updated: 2025-06-23
+updated: 2025-07-12
 components: [header, footer]
 ---
 
@@ -37,3 +39,5 @@ Ici, vous trouverez un récapitulatif des projets en cours dans le jardin numér
 - gagner un des défis quotidiens Nightcafe Studio : https://creator.nightcafe.studio/u/BaudouinVH
 
 - Me confectionner une page-portail sur mesure - échantillon sur paraploui.surge.sh
+
+- Décider si oui ou non je suis en burn-out autistique 
