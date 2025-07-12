@@ -1,7 +1,8 @@
 ---
 title: Présence en ligne
 publish: true
-tags: [projet]
+tags: 
+  - projet
 created: 2025-07-06
 
 ---

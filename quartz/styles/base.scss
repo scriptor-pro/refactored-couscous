@@ -88,6 +88,7 @@ a {
   text-decoration: underline dotted var(--secondary);
   transition: color 0.2s ease;
   color: var(--secondary);
+  text-decoration-skip-ink: auto;
 
   &:hover {
     color: var(--tertiary);

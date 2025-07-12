@@ -1,8 +1,9 @@
 ---
 title: La promptothèque
 publish: true
-tags: [projets, ia]
-created: 2025-06-23
+tags: 
+  - projet
+  - IA
 updated: 2025-06-23
 ---
 

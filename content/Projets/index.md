@@ -3,7 +3,7 @@ title: Projets
 publish: true
 tags: 
   - projets
-
+  - folder
 description: Ce fichier contient l'index de tous les projets en cours dans le jardin numérique.
 created: 2025-06-23
 updated: 2025-07-12
