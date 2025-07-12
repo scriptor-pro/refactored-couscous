@@ -8,7 +8,7 @@ import { ExtraHead } from "./quartz/plugins/emitters/extraHead"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Je note donc je suis",
+    pageTitle: "jndjs.dev — Je note donc je suis",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -17,6 +17,12 @@ const config: QuartzConfig = {
     baseUrl: "https://scriptor-pro.github.io/refactored-couscous",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
+      sidebar: {
+    links: [
+      { text: "Tags", href: "/tags" },
+      { text: "Accueil", href: "/" }
+    ]
+  },
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -27,7 +33,7 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
+          light: "#fff8f8",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
