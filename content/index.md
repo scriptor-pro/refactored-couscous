@@ -1,11 +1,15 @@
 ---
-title: Je note donc je suis
+title: jndjs.dev — Je note donc je suis
 publish: true
-tags: [index, accueil]
+tags:
+  - index
+  - accueil
 description: Le jardin numérique de Baudouin Van Humbeeck - poussez la grille et ne faites pas attention aux mauvaises herbes
 created: 2025-06-23
 updated: 2025-06-23
-components: [header, footer]
+components:
+  - header
+  - footer
 ---
 
 # Bienvenue dans ce jardin numérique
