@@ -85,7 +85,7 @@ strong {
 
 a {
   font-weight: $semiBoldWeight;
-  text-decoration: none;
+  text-decoration: underline dotted var(--secondary);
   transition: color 0.2s ease;
   color: var(--secondary);
 
