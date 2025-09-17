@@ -16,6 +16,13 @@ components:
 
 Ici, vous trouverez un récapitulatif des projets en cours dans le jardin numérique. Chaque projet est relié à d'autres notes pertinentes dans le jardin. Il sera question de [[zones]], de [[ressources]], de [[Projets/index|Projets]] et d'[[Archives/index|archives]].
 
+
+```component ContentIndex
+sort: lastModified
+limit: 1
+``` 
+
+
 ## Qu'est-ce que c'est un jardin numérique  :
 
 Pas la peine de tourner vers wikipédia pour le savoir, j'ai tenté de créer [une page](https://en.wikipedia.org/wiki/User:BaudouinVH/digital-garden) à ce sujet mais les gardiens du temple du savoir semble avoir un a priori négatif à propos de ce dont ils n'ont jamais entendu parler. 
