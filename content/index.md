@@ -6,21 +6,17 @@ tags:
   - accueil
 description: Le jardin numérique de Baudouin Van Humbeeck - poussez la grille et ne faites pas attention aux mauvaises herbes
 created: 2025-06-23
-updated: 2025-06-23
+updated: 2025-09-17
 components:
   - header
   - footer
 ---
 
-# Bienvenue dans ce jardin numérique
+# Je note donc je suis —  Bienvenue dans ce jardin numérique
 
 Ici, vous trouverez un récapitulatif des projets en cours dans le jardin numérique. Chaque projet est relié à d'autres notes pertinentes dans le jardin. Il sera question de [[zones]], de [[ressources]], de [[Projets/index|Projets]] et d'[[Archives/index|archives]].
 
 
-```component ContentIndex
-sort: lastModified
-limit: 1
-``` 
 
 
 ## Qu'est-ce que c'est un jardin numérique  :
