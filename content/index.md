@@ -51,3 +51,5 @@ Hm…. Peut-être bien un peu de ça aussi.
 Voilà ! Un digital garden, c'est surtout un work in progress. Le contenu va changer souvent. Reviens souvent.
 
 ## À suivre
+
+Choucroute bleue 17 09 2025 
