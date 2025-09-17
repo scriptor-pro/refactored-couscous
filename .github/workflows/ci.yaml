@@ -43,19 +43,19 @@ jobs:
           if-no-files-found: error
           retention-days: 1
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
-    steps:
-      - name: Download artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: github-pages
-          path: public  # 👈 chemin d'extraction obligatoire
+#  deploy:
+ #   needs: build
+  #  runs-on: ubuntu-latest
+ #   environment:
+  #    name: github-pages
+   #   url: ${{ steps.deploy.outputs.page_url }}
+   #     steps:
+     # - name: Download artifact
+     #   uses: actions/download-artifact@v4
+      #  with:
+#          name: github-pages
+ #         path: public  # 👈 chemin d'extraction obligatoire
 
-      - name: Deploy to GitHub Pages
+  &    - name: Deploy to GitHub Pages
         id: deploy
         uses: actions/deploy-pages@v4
