@@ -14,7 +14,7 @@ components:
 
 # Je note donc je suis —  Bienvenue dans ce jardin numérique
 
-Ici, vous trouverez un récapitulatif des projets en cours dans le jardin numérique. Chaque projet est relié à d'autres notes pertinentes dans le jardin. Il sera question de [[zones]], de [[ressources]], de [[Projets/index|Projets]] et d'[[Archives/index|archives]].
+Ici, vous trouverez un récapitulatif des projets en cours dans le jardin numérique. Chaque projet est relié à d'autres notes pertinentes dans le jardin. Il sera question de [[zones]], de [[ressources]], de [[Projets/index|Projets]] et d' [[Archives/index|archives]], de "[[Photo/index|Photo argentique]]".
 
 
 
@@ -52,4 +52,4 @@ Voilà ! Un digital garden, c'est surtout un work in progress. Le contenu va cha
 
 ## À suivre
 
-Choucroute bleue 17 09 2025 
+
