@@ -1,0 +1,1 @@
+[pimper zshrc](obsidian://vault/Obsidian/pimper%20zshrc)
