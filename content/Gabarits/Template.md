@@ -1,23 +1,13 @@
 ---
-
 title:
-
 publish: false
-
 tags:
-
-- (tag1)
-
+  - (tag1)
 description:
-
 created:
-
 updated:
-
 components:
-
-- header
-
-- footer
-
+  - header
+  - footer
+type:
 ---

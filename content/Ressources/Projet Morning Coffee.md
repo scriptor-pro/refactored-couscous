@@ -1,9 +1,9 @@
 
 1. Un media Europe 3/7 ;
 2. Un Media Afrique 3/7 ;
-3. Un media Proche-Orient 1/7 ;
-4. un media Moyen-Orient ; 
-5. un media Asie 3/7 ;
+3. Un media Proche-Orient 2/7 ;
+4. un media Moyen-Orient 2/7; 
+5. un media Asie 5/7 ;
 6. un média Amérique du sud 1/7
 
 ## Liste media Europe
@@ -33,6 +33,8 @@
 1. https://macaudailytimes.com.mo/ 
 2. https://www.asahi.com/ajw/
 3. https://thewire.in/
+4. https://koreajoongangdaily.joins.com/
+5. https://www.japantimes.co.jp/
 
 
 ## Liste Media Amérique du Sud
