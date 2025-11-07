@@ -1,3 +1,27 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+.home-tags {
+  margin-top: 3rem;
+  text-align: center;
+}
+
+.home-tag-cloud {
+  margin-top: 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  justify-content: center;
+}
+
+.home-tag-cloud .tag {
+  text-decoration: none;
+  font-weight: 500;
+  transition: transform 0.2s, color 0.2s;
+}
+
+.home-tag-cloud .tag:hover {
+  transform: scale(1.15);
+  text-decoration: underline;
+}

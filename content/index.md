@@ -1,5 +1,7 @@
+  GNU nano 7.2                                                                                                        index.md *                                                                                                           
 ---
 title: jndjs.dev — Je note donc je suis
+layout: home
 publish: true
 tags:
   - index
