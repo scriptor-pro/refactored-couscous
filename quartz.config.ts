@@ -1,6 +1,8 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 import { ExtraHead } from "./quartz/plugins/emitters/extraHead"
+import { TagsCloudPlugin } from "./quartz/plugins/tagsCloud"
+
 /**
  * Quartz 4 Configuration
  *
@@ -95,6 +97,8 @@ const config: QuartzConfig = {
      Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
       // Plugin.CustomOgImages(),
+  // 🌿 Ajout du nuage de tags
+ tagsCloudPlugin(),
     ],
   },
 }
