@@ -12,8 +12,6 @@ components:
   - header
   - footer
 ---
-1763630671
-
 # Je note donc je suis —  Bienvenue dans ce jardin numérique
 
 Ici, vous trouverez un récapitulatif des projets en cours dans le jardin numérique. Chaque projet est relié à d'autres notes pertinentes dans le jardin. Il sera question de [[zones]], de [[ressources]], de [[Projets/index|Projets]] et d' [[Archives/index|archives]], de "[[Photo/index|Photo argentique]]".
@@ -50,7 +48,7 @@ Hm…. Peut-être bien un peu de ça aussi.
 
 ## Un work in progress ?
 
-Voilà ! Un digital garden, c'est surtout un work in progress. Le contenu va changer souvent. Reviens souvent.
+Voilà ! Un digital garden, c'est surtout un work in progress. Le contenu va changer souvent. Reviens. Reviens, souvent.
 
 ## À suivre
 
