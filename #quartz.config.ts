@@ -1,5 +1,7 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { TagsCloudPlugin } from "./quartz/plugins/emitters/tagsCloud"
+
 
 /**
  * Quartz 4 Configuration
