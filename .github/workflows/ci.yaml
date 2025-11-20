@@ -1,22 +1,17 @@
-name: CI + Deploy Quartz to GitHub Pages (artifact@v4)
+name: CI + Deploy Quartz to Netlify
 
 on:
   push:
     branches:
-      - v4  # Déclenche sur push vers la branche v4
+      - v4
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-22.04
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -35,27 +30,15 @@ jobs:
       - name: Build Quartz
         run: npx quartz build
 
-      - name: Upload site artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: github-pages  # 👈 requis par actions/deploy-pages
-          path: public/
-          if-no-files-found: error
-          retention-days: 1
+      - name: Install Netlify CLI
+        run: npm install -g netlify-cli
 
-#  deploy:
- #   needs: build
-  #  runs-on: ubuntu-latest
- #   environment:
-  #    name: github-pages
-   #   url: ${{ steps.deploy.outputs.page_url }}
-   #     steps:
-     # - name: Download artifact
-     #   uses: actions/download-artifact@v4
-      #  with:
-#          name: github-pages
- #         path: public  # 👈 chemin d'extraction obligatoire
-
-  &    - name: Deploy to GitHub Pages
-        id: deploy
-        uses: actions/deploy-pages@v4
+      - name: Deploy to Netlify
+        run: |
+          netlify deploy \
+            --dir=public \
+            --prod \
+            --site="$NETLIFY_SITE_ID"
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
