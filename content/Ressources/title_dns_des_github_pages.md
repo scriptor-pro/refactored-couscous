@@ -1,9 +1,11 @@
 ---
 title: DNS des GitHub Pages
 publish: true
-tags: [projet]
+tags:
+  - projet
+  - web
+  - nom-de-domaine
 created: 2025-07-03
-
 ---
 
 # Faire pointer un domaine vers une page github
