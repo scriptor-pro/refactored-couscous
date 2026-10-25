@@ -1,9 +1,9 @@
-
+Vol
 1. Un media Europe 7/7 ;
 2. Un Media Afrique 4/7 ;
 3. Un media Proche-Orient 5/7 ;
 4. un media Moyen-Orient 4/7; 
-5. un media Asie 5/7 ;
+5. un media Asie 7/7 ;
 6. un média Amérique du sud 2/7
 
 ## 1 Liste media Europe
@@ -22,6 +22,7 @@
 2. https://dailypost.ng/
 3. https://actualite.cd/
 4. https://fr.africanews.com/
+5. https://www.thereporterethiopia.com/
 
 
 ## 3 Liste media Proche-Orient
@@ -31,6 +32,8 @@
 3. https://www.al-monitor.com/
 4. https://www.middleeastmonitor.com/
 5. https://www.arabnews.com/
+6. https://www.lorientlejour.com/
+7. https://syriadirect.org/
 
 ## 4 Liste media Moyen-Orient
 
@@ -45,10 +48,17 @@
 2. https://www.asahi.com/ajw/
 3. https://thewire.in/
 4. https://koreajoongangdaily.joins.com/
-5. https://www.japantimes.co.jp/
+5. https://www.thevietnamese.org/
+6. https://theconversation.com/id/in-english
+7. https://tribune.com.pk/
 
 
 ## 6 Liste Media Amérique du Sud
 
 1. https://mexiconewsdaily.com/ 
 2. https://agenciabrasil.ebc.com.br/en
+## 7 Liste Media Geek
+
+1. https://www.404media.co
+2. https://www.theregister.com/
+3. 

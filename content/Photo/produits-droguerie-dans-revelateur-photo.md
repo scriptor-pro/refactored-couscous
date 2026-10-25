@@ -1,15 +1,12 @@
 ---
 title: Des produits de droguerie dans le révélateur
-publish: false
 tags:
   - photo
-  - chimie
+  - petit-chimiste
 description: De l'effet de produits de droguerie sur le développement d'un film noir et blanc
 created: 2025-09-28
 updated:
-components:
-  - header
-  - footer
+status: "chantier"
 ---
 # Révélateur assaisonné – Produits de droguerie
 

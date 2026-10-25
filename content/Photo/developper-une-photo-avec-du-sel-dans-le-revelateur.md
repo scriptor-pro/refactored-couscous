@@ -1,17 +1,19 @@
+
 ---
-title:
+title: "Développer avec un révélateur assaisonné –  Sel Iodé "
+layout: note.njk
 publish: true
 tags:
   - photo
-  - chimie
-  - révélateur
-description: Que se passe-t-il quand on ajoute du sel iodé à du révélateur
-created: 2025-09-18
-updated:
-components:
-  - header
-  - footer
+  - petit-chimiste
+description: "Que devient une photo développée avec du révélateur salé ?"
+date: 2025-06-23
+created: 2025-06-23
+updated: 2025-09-17
+status: "chantier"
 ---
+
+
 # Révélateur Assaisonné – Expérience Sel Iodé  
 **Film** : AgfaPhoto APX 400  
 **Révélateur** : Rodinal 1+25  
